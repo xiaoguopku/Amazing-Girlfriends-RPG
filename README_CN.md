@@ -1,13 +1,14 @@
 # 神奇女友 RPG 中文说明
 
+![头图](https://github.com/xiaoguopku/Amazing-Girlfriends-RPG/raw/master/images/initial-7-characters.png)
+
 ## 项目介绍
 
-🔗GPT 链接: 
+🔗GPT 链接:
+
 https://chat.openai.com/g/g-OxYAUHnFj-a-g-amazing-girlfriends-rpg-shen-qi-nu-you-su-qing-rasiibi-nu-tati
 
 欢迎来到“神奇女友RPG”游戏，这是一款独特的角色扮演游戏。
-
-![头图](https://github.com/xiaoguopku/Amazing-Girlfriends-RPG/raw/master/images/initial-7-characters.png)
 
 ### 游戏特点
 
@@ -27,9 +28,11 @@ https://chat.openai.com/g/g-OxYAUHnFj-a-g-amazing-girlfriends-rpg-shen-qi-nu-you
 
 ### 加入社区
 
-[Discord](https://discord.gg/3rD5PGXg75)
+Discord: [Discord](https://discord.gg/3rD5PGXg75)
 
-微信群：![](https://github.com/xiaoguopku/Amazing-Girlfriends-RPG/raw/master/images/WeChatGroupQRCode.jpg)
+微信群：
+
+<img src="https://github.com/xiaoguopku/Amazing-Girlfriends-RPG/raw/master/images/WeChatGroupQRCode.jpg" width="50%">
 
 ### 联系开发者
 

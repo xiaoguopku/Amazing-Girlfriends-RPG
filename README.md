@@ -1,13 +1,14 @@
 # Amazing-Girlfriends-RPG
 
+![Banner Image](https://github.com/xiaoguopku/Amazing-Girlfriends-RPG/raw/master/images/initial-7-characters.png)
+
 ## Project Introduction
 
-🔗GPT Link: 
+🔗GPT Link:
+
 https://chat.openai.com/g/g-OxYAUHnFj-a-g-amazing-girlfriends-rpg-shen-qi-nu-you-su-qing-rasiibi-nu-tati
 
 Welcome to "Amazing Girlfriends RPG" - a unique role-playing adventure.
-
-![Banner Image](https://github.com/xiaoguopku/Amazing-Girlfriends-RPG/raw/master/images/initial-7-characters.png)
 
 ### Game Highlights
 
@@ -27,9 +28,11 @@ Welcome to "Amazing Girlfriends RPG" - a unique role-playing adventure.
 
 ### Join the community
 
-[Discord](https://discord.gg/3rD5PGXg75)
+Discord: [Discord](https://discord.gg/3rD5PGXg75)
 
-Wechat Group: ![](https://github.com/xiaoguopku/Amazing-Girlfriends-RPG/raw/master/images/WeChatGroupQRCode.jpg)
+Wechat Group:
+
+<img src="https://github.com/xiaoguopku/Amazing-Girlfriends-RPG/raw/master/images/WeChatGroupQRCode.jpg" width="50%">
 
 ### Reach Out to the Developer
 
