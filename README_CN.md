@@ -8,6 +8,10 @@
 
 https://chat.openai.com/g/g-OxYAUHnFj-a-g-amazing-girlfriends-rpg-shen-qi-nu-you-su-qing-rasiibi-nu-tati
 
+产品截图：
+
+![产品截图](https://github.com/xiaoguopku/Amazing-Girlfriends-RPG/raw/master/images/MainScreenshot.png)
+
 欢迎来到“神奇女友RPG”游戏，这是一款独特的角色扮演游戏。
 
 ### 游戏特点
@@ -46,6 +50,11 @@ Discord: [Discord](https://discord.gg/3rD5PGXg75)
 ### 资助者
 
 有兴趣支持我们的游戏吗？联系我们，我们将在游戏介绍中展示您的赞助。
+
+
+## 对话示例
+
+<img src="https://github.com/xiaoguopku/Amazing-Girlfriends-RPG/raw/master/images/ScreenshotClaireChinese.png" width="50%">
 
 
 ## GPT 配置信息

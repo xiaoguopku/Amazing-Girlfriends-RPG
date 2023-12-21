@@ -8,6 +8,10 @@
 
 https://chat.openai.com/g/g-OxYAUHnFj-a-g-amazing-girlfriends-rpg-shen-qi-nu-you-su-qing-rasiibi-nu-tati
 
+Product screenshot:
+
+![Product screenshot](https://github.com/xiaoguopku/Amazing-Girlfriends-RPG/raw/master/images/MainScreenshot.png)
+
 Welcome to "Amazing Girlfriends RPG" - a unique role-playing adventure.
 
 ### Game Highlights
@@ -43,12 +47,17 @@ You can find the developer's Twitter, Email, Xiaohongshu, Jike, Weibo, and more 
 - ZillionAI (In Development): An innovative AI tool designed to help gather and organize information effortlessly.
 - [Amazing GPT Translator](https://chat.openai.com/g/g-7TgyNtdeX-shen-qi-fan-yi-gpt-amazing-gpt-translator): This is a specialized translation GPT adept at precisely differentiating user instructions from translation content. It provides two modes of translation - "Fast" and "Professional" - to swiftly and thoroughly cater to translation requirements across various scenarios.
 
-## Become a Sponsor
+### Become a Sponsor
 
 Interested in supporting our game? Get in touch, and we'll feature your sponsorship in our game's introduction.
 
 
-## Configure Info
+## Dialogue Examples
+
+<img src="https://github.com/xiaoguopku/Amazing-Girlfriends-RPG/raw/master/images/ScreenshotClaireEnglish.png" width="50%">
+
+
+## GPT Configure Info
 
 ### Name
 
