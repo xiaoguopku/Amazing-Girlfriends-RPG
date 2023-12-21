@@ -54,7 +54,7 @@ Discord: [Discord](https://discord.gg/3rD5PGXg75)
 
 ## 对话示例
 
-<img src="https://github.com/xiaoguopku/Amazing-Girlfriends-RPG/raw/master/images/ScreenshotClaireChinese.png" width="50%">
+<img src="https://github.com/xiaoguopku/Amazing-Girlfriends-RPG/raw/master/images/ScreenshotClaireChinese.png" width="80%">
 
 
 ## GPT 配置信息

@@ -54,7 +54,7 @@ Interested in supporting our game? Get in touch, and we'll feature your sponsors
 
 ## Dialogue Examples
 
-<img src="https://github.com/xiaoguopku/Amazing-Girlfriends-RPG/raw/master/images/ScreenshotClaireEnglish.png" width="50%">
+<img src="https://github.com/xiaoguopku/Amazing-Girlfriends-RPG/raw/master/images/ScreenshotClaireEnglish.png" width="80%">
 
 
 ## GPT Configure Info
