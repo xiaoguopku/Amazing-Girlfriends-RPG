@@ -80,3 +80,7 @@ Explore a virtual dating world with diverse AI girlfriends in this bset GPTs gal
 - [ ] Web Browsing
 - [x] DALL·E Image Generation
 - [x] Code Interpreter
+
+Click the GPT link for an immediate free trial ↓:
+
+https://chat.openai.com/g/g-OxYAUHnFj-a-g-amazing-girlfriends-rpg-shen-qi-nu-you-su-qing-rasiibi-nu-tati
